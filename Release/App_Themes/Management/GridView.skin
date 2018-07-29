@@ -1,0 +1,12 @@
+﻿<%--
+Form: FMain
+Class: Visual Basic.Net #1
+Author: Saniya Arab
+Abstract: Homework week 10
+--%>
+<asp:GridView runat="server" CssClass="GridView">
+    <HeaderStyle CssClass="GridViewHeaderStyle" />
+    <PagerStyle CssClass="GridViewPagerStyle" />
+    <SortedAscendingHeaderStyle CssClass="GridViewSortedAscendingHeaderStyle" />
+    <SortedDescendingHeaderStyle CssClass="GridViewSortedDescendingHeaderStyle" />
+</asp:GridView>

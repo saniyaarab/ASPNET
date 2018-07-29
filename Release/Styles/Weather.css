@@ -1,0 +1,31 @@
+﻿/*
+    Form: FMain
+    Class: Visual Basic.Net #1
+    Author: Saniya Arab
+    Abstract: MidTerm - Weather Control
+*/
+
+
+section#MainContent {
+    width: 500px;
+    margin: 0px auto;
+    text-align: center;
+    background-color: skyblue;
+}
+
+#weather h2 {
+    margin: 0 0 8px;
+    color: #fff;
+    font-size: 100px;
+    font-weight: 300;
+    text-align: center;
+    text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.15);
+}
+
+#weather ul {
+    margin: 0;
+    padding: 0;
+}
+
+
+ 

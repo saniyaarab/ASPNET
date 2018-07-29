@@ -1,0 +1,9 @@
+﻿<%--
+Form: FMain
+Class: Visual Basic.Net #1
+Author: Saniya Arab
+Abstract: Homework 1 - Chapter 6
+--%>
+
+<asp:Button CssClass="MyButton" BackColor="#509EE7" runat="server" />
+<asp:Button BackColor="Red" ForeColor="Black" SkinID="RedButton" runat="server" />

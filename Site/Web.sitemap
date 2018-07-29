@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Form: FMain
+Class: Visual Basic.Net #1
+Author: Saniya Arab
+Abstract: Homework
+-->
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0">
+  <siteMapNode url="~/" title="Home" description="Home">
+    <siteMapNode url="~/Default.aspx" title="Home"
+            description="Go to the homepage" />
+    <siteMapNode url="~/Reviews/Default.aspx" title="Reviews"
+              description="Reviews published on this site">
+      <siteMapNode url="~/Reviews/AllByGenre.aspx" title="By Genre"
+                 description="All Reviews Grouped by Genre" />
+      <siteMapNode url="~/Reviews/All.aspx" title="All Reviews"
+                 description="All Reviews" />
+    </siteMapNode>
+    <siteMapNode url="~/PhotoAlbums/" title="Gig Pics" description="All Gig Pics">
+      <siteMapNode url="~/PhotoAlbums/Default" title="Gig Pics"
+               description="All Gig Pics" />
+      <siteMapNode url="~/NewPhotoAlbum" title="New Album"
+               description="Create a new Photo Album with Gig Pics" />
+    </siteMapNode>
+    <siteMapNode url="~/About/Default.aspx" title="About"
+             description="About this Site">
+      <siteMapNode url="~/About/Contact.aspx" title="Contact Us"
+                 description="Contact Us" />
+      <siteMapNode url="~/About/AboutUs.aspx" title="About Us"
+                 description="About Us" />
+      <siteMapNode url="~/MyProfile" title="My Profile"
+               description="My Profile" />
+    </siteMapNode>
+    <siteMapNode url="~/Homework/Default.aspx" title="Homework"
+             description="View all Homeworks">
+      <siteMapNode url="~/Homework/Homework2.aspx" title="Homework 2"
+                 description="Homework 2" />
+      <siteMapNode url="~/Homework/Homework3.aspx" title="Homework 3"
+                 description="Homework 3" />
+      <siteMapNode url="~/Homework/Homework4.aspx" title="Homework 4"
+                 description="Homework 4" />
+      <siteMapNode url="~/Homework/Homework6.aspx" title="Homework 6"
+                 description="Homework 6" />
+     <siteMapNode url="~/Homework/MidTerm.aspx" title="MidTerm"
+                 description="MidTerm" />
+    </siteMapNode>
+    <siteMapNode url="~/Demos/Default.aspx" title="Demos"
+             description="Demos on this site">
+      <siteMapNode url="~/Demos/BasicSelectors.aspx" title="BasicSelectors"
+                 description="BasicSelectors" />
+      <siteMapNode url="~/Demos/CalculatorDemo.aspx" title="CalculatorDemo"
+                 description="CalculatorDemo" />
+      <siteMapNode url="~/Demos/CodeBehind.aspx" title="CodeBehind"
+                 description="CodeBehind" />
+      <siteMapNode url="~/Demos/CodeInline.aspx" title="CodeInline"
+                 description="CodeInline" />
+      <siteMapNode url="~/Demos/Containers.aspx" title="Containers"
+                 description="Containers" />
+      <siteMapNode url="~/Demos/ControlsDemo.aspx" title="ControlsDemo"
+                 description="ControlsDemo" />
+      <siteMapNode url="~/Demos/CSSDemo.aspx" title="CSSDemo"
+                 description="CSSDemo" />
+      <siteMapNode url="~/Demos/Email.aspx" title="Email"
+                 description="Email" />
+      <siteMapNode url="~/Demos/Events.aspx" title="Events"
+                 description="Events" />
+      <siteMapNode url="~/Demos/JQuery.aspx" title="JQuery"
+                 description="JQuery" />
+      <siteMapNode url="~/Demos/jQueryDemos.aspx" title="jQueryDemos"
+                 description="jQueryDemos" />
+      <siteMapNode url="~/Demos/ListControls.aspx" title="ListControls"
+                 description="ListControls" />
+      <siteMapNode url="~/Demos/SkinsDemo.aspx" title="SkinsDemo"
+                description="SkinsDemo" />
+      <siteMapNode url="~/Demos/Source.aspx" title="Source"
+                description="Source" />
+      <siteMapNode url="~/Demos/State.aspx" title="State"
+                description="State" />
+      <siteMapNode url="~/Demos/TableDemo.aspx" title="TableDemo"
+                description="TableDemo" />
+      <siteMapNode url="~/Demos/Target.aspx" title="Target"
+                description="Target" />
+      <siteMapNode url="~/Demos/UpdatePanel.aspx" title="UpdatePanel"
+                description="UpdatePanel" />
+      <siteMapNode url="~/Demos/Webservices.aspx" title="Webservices"
+                description="Webservices" />
+    </siteMapNode>
+    <siteMapNode url="~/Login.aspx" title="Login"
+             description="Log in to this web site" />
+  </siteMapNode>
+</siteMap>

@@ -1,0 +1,7 @@
+﻿<%--
+Form: FMain
+Class: Visual Basic.Net #1
+Author: Saniya Arab
+Abstract: week 6 - Chapter 10 and 11
+--%>
+<%@ ServiceHost Language="C#" Debug="true" Service="CNameService" CodeBehind="~/App_Code/CNameService.cs" %>

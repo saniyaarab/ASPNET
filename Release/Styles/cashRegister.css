@@ -1,0 +1,40 @@
+﻿/*
+    Form: FMain
+    Class: Visual Basic.Net #1
+    Author: Saniya Arab
+    Abstract: Homework 2 /Week 3 - Chapter 5
+*/
+
+
+
+.firstcolwidth {
+    width: 100px;
+    background-color: #C0C0C0;
+    padding-left: 25px;
+}
+
+.secondColWidth {
+    width: 150px;
+    padding-left: 25px;
+    background-color: #C0C0C0;
+}
+
+.tableLength {
+    width: 20%;
+    background-color: #C0C0C0;
+    5
+}
+
+.mergedCol {
+    background-color: #C0C0C0;
+    text-align: left;
+    padding-left: 25px;
+    margin-bottom: 4px;
+}
+
+.border {
+    border-bottom-style: solid;
+    border-bottom-width: medium;
+    border-bottom-color: #000000;
+    padding-left: 25px;
+}
